@@ -1,4 +1,4 @@
-# IndoTrace-OSINT 🇮🇳 🔍
+# Trace OSINT 🇮🇳 🔍
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![OSINT](https://img.shields.io/badge/Tool-OSINT-orange.svg)
@@ -22,5 +22,10 @@ Ensure you have **Python 3.x** installed on your system.
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/IndoTrace-OSINT.git](https://github.com/YOUR_USERNAME/IndoTrace-OSINT.git)
-cd IndoTrace-OSINT
+git clone [https://github.com/123tool/Indian-Number-Tracker-Osint.git]
+cd Indian-Number-Tracker-Osint
+
+pip install -r requirements.txt
+
+bash :
+python tracking.py
